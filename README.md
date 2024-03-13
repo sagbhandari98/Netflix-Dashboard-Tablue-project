@@ -19,3 +19,7 @@ Adhering to a sleek and modern design inspired by the Netflix brand, the dashboa
 ## Conclusion
 This Netflix Dashboard project represents a blend of data analytics and design, tailored to provide an in-depth analysis of Netflix's content strategy. It stands as a testament to the power of data visualization in extracting actionable insights from complex datasets. This project is a pivotal addition to my portfolio, demonstrating my skills in data handling, visualization, and UI design, aimed at potential employers and collaborators in the data science and analytics domain.
 ![Dashboard Screenshot](https://github.com/sagbhandari98/Tablue-projects/blob/main/Netflix-dashboard.png)
+
+Certainly! Here's the revised sentence:
+
+This is the link to view the dashboard screenshot above: (https://public.tableau.com/app/profile/sagrika.bhandari/viz/NetflixDashboard_17103606950470/NETFLIX?publish=yes)
